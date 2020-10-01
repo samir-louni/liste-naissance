@@ -1,0 +1,54 @@
+table
+{
+    border-collapse: collapse; 
+}
+td
+{
+    border: 3px solid black;
+}
+.Urgent{
+    font-size: medium;
+    color: #bd2612;
+    font-weight: bold;
+  }
+  .Normal{
+    font-size: medium;
+    color: #4ab3b3;
+    font-weight: bold;
+  }
+  .Acheter{
+    font-size: medium;
+    color: #4ab361;
+    font-weight: bold;
+  }
+
+  body {
+    font-family: cursive;
+  }
+ .SELEC
+ {color: rgb(165, 59, 192);
+    font-size: medium;
+    font-weight: bold;
+    }
+    td
+    {background-color: white;}
+    body
+    {background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-mother-and-baby-pregnant-woman-pink-banner-image_14307.jpg
+        )  ;}
+        
+        body
+        {background-size: 110%;}
+        tr:nth-child(even) {
+          background-color: #CED4E5;
+        }
+
+     thead
+     {font-style: italic;
+    text-decoration: tomato;
+    font-size: 110%;
+    color: rgb(177, 168, 165);
+    text-shadow: -1px 0 black, 0 2px black,
+    1px 0 black, 0 -1px black}}
+
+  
+     
